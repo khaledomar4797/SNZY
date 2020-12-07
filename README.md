@@ -40,7 +40,7 @@ We would like to expand the functionality of the console, by allowing the user t
 
 ## Resource Links
 ### SNZY GitHub Repository
-https://github.com/ColinLittleSD/SNZY
+https://github.com/khaledomar4797/SNZY
 
 ### SNZY Tello Board
 https://trello.com/b/MWrTnYG6/snzy
